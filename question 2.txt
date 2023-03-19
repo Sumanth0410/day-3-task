@@ -1,0 +1,47 @@
+{
+  "name": "G.sumanth",
+  "title": "Software Developer",
+  "contact": {
+    "email": "jane.doe@email.com",
+    "phone": "(123) 456-7890",
+    "location": "San Francisco, CA"
+  },
+  "summary": "I am a software developer with 5 years of experience in developing web applications using various programming languages and frameworks.",
+  "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "React",
+    "Django",
+    "Node.js",
+    "SQL",
+    "Git",
+    "Agile development"
+  ],
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "ABC Inc.",
+      "location": "San Francisco, CA",
+      "start_date": "2018-01-01",
+      "end_date": "2023-03-01",
+      "description": "Developed and maintained web applications using Python, Django, and React. Implemented RESTful APIs and integrated with third-party services. Collaborated with the team to deliver high-quality software on time and within budget."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "XYZ Corp.",
+      "location": "New York, NY",
+      "start_date": "2016-05-01",
+      "end_date": "2017-12-31",
+      "description": "Developed and maintained Java web applications using Spring framework. Worked with the team to deliver software that met the customer's requirements."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation_date": "2016-05-01"
+    }
+  ]
+}

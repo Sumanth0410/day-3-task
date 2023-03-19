@@ -1,0 +1,9 @@
+In JavaScript, the window, screen, and document objects are all related to the web page and the browser environment, but they represent different things.
+
+The window object represents the browser window or tab that the web page is loaded in. It contains various properties and methods that allow you to interact with the window, such as resizing it, moving it, opening and closing tabs, and more. The window object is the top-level object in the browser's JavaScript hierarchy, and all other objects and variables are properties of it.
+
+The screen object represents the physical screen or monitor that the browser window is displayed on. It contains properties such as width, height, availWidth, availHeight, and colorDepth that give you information about the screen's size and color capabilities.
+
+The document object represents the web page itself and its content, including HTML elements, CSS styles, and JavaScript code. It contains methods and properties that allow you to manipulate the content of the web page, such as adding or removing elements, changing styles, and responding to user interactions like clicks and key presses.
+
+To summarize, the window object represents the browser window or tab, the screen object represents the physical screen or monitor, and the document object represents the web page content. While all three objects are related to the browser environment, they serve different purposes and offer different functionality.
